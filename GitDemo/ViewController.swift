@@ -16,6 +16,10 @@ class ViewController: UIViewController {
         //TODO:
         //add code
     }
+    
+    func nothing() {
+        
+    }
 
 
 }
